@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nicole-calderon
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: nicolecaleron@tamu.edu
+- 👀 I’m interested in Product Management, Blockchain Technologies and AI :D
+- 📫 How to reach me: nicolecalderonbu@gmail.com
 
 <!---
 nicole-calderon/nicole-calderon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
